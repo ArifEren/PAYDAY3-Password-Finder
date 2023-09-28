@@ -13,5 +13,4 @@
 https://github.com/ArifEren/PAYDAY3-Password-Finder/assets/88643148/597e5e7b-104a-413c-b3dc-24a50f676788
 
 * Program folder for download:
-
 [PAYDAY3_Password_Finder.zip](https://github.com/ArifEren/PAYDAY3-Password-Finder/files/12750525/PAYDAY3_Password_Finder.zip)
