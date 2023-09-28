@@ -5,7 +5,11 @@
 
 * The program is made for fun. If you want to try guessing the keypad password, then you can use this program to keep track of every single possible combination.
 
-* You can download PAYDAY3_Password_Finder folder to use the program.
+* The program can be found in PAYDAY3_Password_Finder folder. (It can also be downloaded from the bottom of the page.)
 * Gamemaker Studio 2 project can be found in PAYDAY3_Password_Finder_Project folder.
 
+Exampla video:
 https://github.com/ArifEren/PAYDAY3-Password-Finder/assets/88643148/649dbec5-41f9-44f8-a720-f6d3112a94da
+
+Program folder for download:
+[PAYDAY3_Password_Finder.zip](https://github.com/ArifEren/PAYDAY3-Password-Finder/files/12750525/PAYDAY3_Password_Finder.zip)
